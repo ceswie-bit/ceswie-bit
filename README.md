@@ -1,50 +1,65 @@
-# ¡Hola! Soy Carla (ceswie-bit) 👋
+# ¡Hola! Soy Carla Saldias 👋
 
-### Analista de Datos & Desarrolladora Backend
+### 📊 Analista de Datos | Python & SQL | Especialista en Gestión y Procesos
 
-Soy una apasionada por transformar datos crudos en información valiosa y construir sistemas robustos. Con experiencia en **Python, SQL y Node.js**, me dedico a crear soluciones que optimizan la toma de decisiones y el flujo de datos.
+Combino **14 años de experiencia en gestión administrativa de alto nivel** con habilidades técnicas en ciencia de datos. [cite_start]Mi enfoque no es solo escribir código, sino usar los datos para **ordenar el caos, optimizar procesos y fundamentar decisiones estratégicas**[cite: 209, 211, 213].
+
+🎓 **Analista Administrativa Contable (UADE)** | 🐍 **Python Developer**
 
 ---
 
 ## 📂 Visión General del Portafolio
 
-Aquí destaco mis proyectos principales enfocados en calidad de datos y desarrollo de plataformas:
+Me especializo en transformar datos financieros y operativos en sistemas eficientes.
 
-* **Validador de Calidad de Datasets:** Herramienta en Python para validar automáticamente la calidad de datos usando IA local.
-* **Plataforma de Streaming (Backend):** Desarrollo de una API RESTful para operaciones CRUD utilizando Node.js y MySQL.
+* **Validador de Calidad de Datasets:** Herramienta en Python para asegurar la integridad de los datos usando IA.
+* **Plataforma de Gestión (Backend):** API RESTful robusta para el manejo de usuarios y contenidos (CRUD) usando Node.js y MySQL.
 
 ---
 
 ## 🛠 Habilidades Técnicas
 
-| Área | Herramientas |
+| Área | Herramientas y Competencias |
 | :--- | :--- |
-| **Lenguajes** | Python, JavaScript (Node.js), SQL |
-| **Bases de Datos** | MySQL, PostgreSQL |
-| **Análisis de Datos** | Pandas, Limpieza de datos, Validación de Datasets |
-| **Herramientas** | Git, GitHub, VS Code |
+| **Lenguajes** | **Python** (Pandas, Análisis de Datos), SQL, JavaScript |
+| **Bases de Datos** | MySQL, PostgreSQL, Diseño de bases de datos relacionales |
+| **Business Intelligence** | [cite_start]Análisis Financiero [cite: 202][cite_start], Toma de decisiones basada en datos[cite: 201], Optimización de Procesos |
+| **Herramientas** | Git, GitHub, VS Code, Excel Avanzado |
 
 ---
 
 ## 🚀 Proyectos Clave
 
 ### 1. Validador de Calidad de Datasets (Python)
-Un validador simple pero potente que interpreta automáticamente la calidad de los datasets mediante inteligencia artificial local.
-* **Herramientas:** Python.
-* **Destacado:** Flujo de trabajo reproducible para etapas iniciales de análisis de datos.
+Herramienta diseñada para automatizar la limpieza y validación de datos, crucial para cualquier análisis financiero o de negocio confiable.
+* **Tech Stack:** Python, IA local.
+* [cite_start]**Impacto:** Flujo de trabajo reproducible para etapas iniciales de análisis de datos[cite: 170].
 * [🔗 Ver Código](https://github.com/ceswie-bit/dataset-quality-validator)
 
-### 2. Plataforma de Streaming - Backend
-Sistema backend completo para una aplicación de streaming, permitiendo la gestión de usuarios y contenidos.
-* **Herramientas:** JavaScript, Node.js, MySQL.
-* **Destacado:** Implementación completa de operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre base de datos relacional.
+### 2. Sistema de Gestión Backend (Node.js & MySQL)
+Infraestructura backend escalable para aplicaciones web. Demuestra capacidad para estructurar datos complejos y relaciones.
+* **Tech Stack:** JavaScript, Node.js, MySQL.
+* [cite_start]**Impacto:** Implementación completa de operaciones CRUD y gestión de bases de datos relacionales[cite: 163, 164].
 * [🔗 Ver Código](https://github.com/ceswie-bit/Recuperatorio-Trabajo-Integrador-Relacional-Backend-Diplomatura-UNTREF)
+
+---
+
+## 💼 Trayectoria y Educación
+
+* **Analista Administrativa Contable** | [cite_start]UADE (2019 - 2024) [cite: 226, 227]
+  * *Base sólida en finanzas y gestión empresarial.*
+* **Gestión de Procesos / Administrativa Senior** | [cite_start]Prefectura Naval Argentina (15 años) [cite: 216, 218]
+  * *Experiencia en logística, manejo de documentación confidencial y resolución de procesos complejos.*
+* **Programación con Python** | [cite_start]Talento Tech (2024) [cite: 229, 230]
 
 ---
 
 ## 📫 Conectemos
 
-Estoy abierta a colaboraciones en proyectos de análisis de datos y desarrollo backend.
+Busco oportunidades para aplicar mi visión analítica y técnica como **Socia Estratégica** en el análisis de datos.
 
 * 📧 **Email:** saldiascarla@gmail.com
-* 💼 **LinkedIn:** https://www.linkedin.com/in/carla-saldias/
+* 💼 **LinkedIn:** [linkedin.com/in/carla-saldias](https://www.linkedin.com/in/carla-saldias)
+## 📫 Conectemos
+
+Estoy abierta a colaboraciones en proyectos de análisis de datos y desarrollo backend.
